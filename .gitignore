@@ -1,0 +1,6 @@
+# build artifacts
+ice-drift.zip
+
+# local test harness deps
+node_modules/
+*.log
